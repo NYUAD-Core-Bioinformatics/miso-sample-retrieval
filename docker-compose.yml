@@ -1,0 +1,8 @@
+services:
+  web:
+    build: .
+    restart: always
+    ports:
+      - "8181:5000"
+    environment:
+      FLASK_ENV: development
