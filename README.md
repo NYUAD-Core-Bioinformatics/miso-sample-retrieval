@@ -15,3 +15,4 @@ Access the application on brower via
 
 localhost:8181 or IP-address:8181
 
+In production it is serving on http://annotation.abudhabi.nyu.edu:8181 
